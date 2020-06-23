@@ -1,0 +1,12 @@
+
+
+a = 0;
+b = 1;
+if a > b:
+ print 'a is bigger';
+else:
+ print 'b is bigger';
+ endif;
+ 
+ 
+ 
