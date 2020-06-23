@@ -11,5 +11,5 @@ system clarity is simplicity.
 
 You can see how the language looks compared to Java in the uploaded image file.
 
-Did prove to be much faster? Kinda.
+Did it prove to be much faster? Not really.
 
